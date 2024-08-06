@@ -15,4 +15,3 @@ def math():
     print(RESTO_DIVISION)
     VALOR_REAL_DIVISION = a / b
     print(VALOR_REAL_DIVISION)
-math()
